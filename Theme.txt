@@ -1,0 +1,5 @@
+Name: Onefourseven AdminLTE Theme
+Author: Onefourseven Labs, Szymon Seliga, http://onefourseven.pl
+Website: https://github.com/OnefoursevenLabs/AdminLTE
+Description: An Orchard Theme created for AdminLTE theme by Almsaeed Studio. https://almsaeedstudio.com/themes/AdminLTE/
+Version: 0.5

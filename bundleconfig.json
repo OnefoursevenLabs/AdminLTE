@@ -1,0 +1,14 @@
+[
+  {
+    "outputFileName": "Scripts/icheck.js",
+    "inputFiles": [
+      "Scripts/icheck.js"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/iCheck/icheck.js",
+    "inputFiles": [
+      "Scripts/iCheck/icheck.js"
+    ]
+  }
+]

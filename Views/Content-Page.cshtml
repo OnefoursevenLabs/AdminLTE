@@ -1,0 +1,22 @@
+﻿@{
+    if (Model.Title != null) {
+        Layout.Title = Model.Title;
+    }
+}
+<div class="box box-solid box-primary">
+    <div class="box-header">
+        <div class="box-title">
+            @Display(Model.Header)
+        </div>
+    </div>
+    <div class="box-body">
+        <div class="col-xs-12">
+            @Display(Model.Content)
+        </div>
+    </div>
+    @if (Model.Footer != null) {
+        <div class="box-footer">
+            @Display(Model.Footer)
+        </div>
+    }
+</div>
