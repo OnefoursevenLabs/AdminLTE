@@ -49,7 +49,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_flat-pink,
     .iradio_flat-pink {
-        background-image: url(pink@2x.png);
+        background-image: url(pink2x.png);
         -webkit-background-size: 176px 22px;
         background-size: 176px 22px;
     }

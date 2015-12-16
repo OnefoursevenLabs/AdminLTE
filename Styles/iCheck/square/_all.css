@@ -55,7 +55,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_square,
     .iradio_square {
-        background-image: url(square@2x.png);
+        background-image: url(square2x.png);
         -webkit-background-size: 240px 24px;
         background-size: 240px 24px;
     }
@@ -117,7 +117,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_square-red,
     .iradio_square-red {
-        background-image: url(red@2x.png);
+        background-image: url(red2x.png);
         -webkit-background-size: 240px 24px;
         background-size: 240px 24px;
     }
@@ -179,7 +179,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_square-green,
     .iradio_square-green {
-        background-image: url(green@2x.png);
+        background-image: url(green2x.png);
         -webkit-background-size: 240px 24px;
         background-size: 240px 24px;
     }
@@ -241,7 +241,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_square-blue,
     .iradio_square-blue {
-        background-image: url(blue@2x.png);
+        background-image: url(blue2x.png);
         -webkit-background-size: 240px 24px;
         background-size: 240px 24px;
     }
@@ -303,7 +303,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_square-aero,
     .iradio_square-aero {
-        background-image: url(aero@2x.png);
+        background-image: url(aero2x.png);
         -webkit-background-size: 240px 24px;
         background-size: 240px 24px;
     }
@@ -365,7 +365,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_square-grey,
     .iradio_square-grey {
-        background-image: url(grey@2x.png);
+        background-image: url(grey2x.png);
         -webkit-background-size: 240px 24px;
         background-size: 240px 24px;
     }
@@ -427,7 +427,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_square-orange,
     .iradio_square-orange {
-        background-image: url(orange@2x.png);
+        background-image: url(orange2x.png);
         -webkit-background-size: 240px 24px;
         background-size: 240px 24px;
     }
@@ -489,7 +489,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_square-yellow,
     .iradio_square-yellow {
-        background-image: url(yellow@2x.png);
+        background-image: url(yellow2x.png);
         -webkit-background-size: 240px 24px;
         background-size: 240px 24px;
     }
@@ -551,7 +551,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_square-pink,
     .iradio_square-pink {
-        background-image: url(pink@2x.png);
+        background-image: url(pink2x.png);
         -webkit-background-size: 240px 24px;
         background-size: 240px 24px;
     }
@@ -613,7 +613,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_square-purple,
     .iradio_square-purple {
-        background-image: url(purple@2x.png);
+        background-image: url(purple2x.png);
         -webkit-background-size: 240px 24px;
         background-size: 240px 24px;
     }

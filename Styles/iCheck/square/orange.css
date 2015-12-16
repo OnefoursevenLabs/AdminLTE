@@ -55,7 +55,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_square-orange,
     .iradio_square-orange {
-        background-image: url(orange@2x.png);
+        background-image: url(orange2x.png);
         -webkit-background-size: 240px 24px;
         background-size: 240px 24px;
     }

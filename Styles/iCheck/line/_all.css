@@ -67,7 +67,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_line .icheck_line-icon,
     .iradio_line .icheck_line-icon {
-        background-image: url(line@2x.png);
+        background-image: url(line2x.png);
         -webkit-background-size: 60px 13px;
         background-size: 60px 13px;
     }
@@ -141,7 +141,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_line-red .icheck_line-icon,
     .iradio_line-red .icheck_line-icon {
-        background-image: url(line@2x.png);
+        background-image: url(line2x.png);
         -webkit-background-size: 60px 13px;
         background-size: 60px 13px;
     }
@@ -215,7 +215,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_line-green .icheck_line-icon,
     .iradio_line-green .icheck_line-icon {
-        background-image: url(line@2x.png);
+        background-image: url(line2x.png);
         -webkit-background-size: 60px 13px;
         background-size: 60px 13px;
     }
@@ -289,7 +289,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_line-blue .icheck_line-icon,
     .iradio_line-blue .icheck_line-icon {
-        background-image: url(line@2x.png);
+        background-image: url(line2x.png);
         -webkit-background-size: 60px 13px;
         background-size: 60px 13px;
     }
@@ -363,7 +363,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_line-aero .icheck_line-icon,
     .iradio_line-aero .icheck_line-icon {
-        background-image: url(line@2x.png);
+        background-image: url(line2x.png);
         -webkit-background-size: 60px 13px;
         background-size: 60px 13px;
     }
@@ -437,7 +437,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_line-grey .icheck_line-icon,
     .iradio_line-grey .icheck_line-icon {
-        background-image: url(line@2x.png);
+        background-image: url(line2x.png);
         -webkit-background-size: 60px 13px;
         background-size: 60px 13px;
     }
@@ -511,7 +511,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_line-orange .icheck_line-icon,
     .iradio_line-orange .icheck_line-icon {
-        background-image: url(line@2x.png);
+        background-image: url(line2x.png);
         -webkit-background-size: 60px 13px;
         background-size: 60px 13px;
     }
@@ -585,7 +585,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_line-yellow .icheck_line-icon,
     .iradio_line-yellow .icheck_line-icon {
-        background-image: url(line@2x.png);
+        background-image: url(line2x.png);
         -webkit-background-size: 60px 13px;
         background-size: 60px 13px;
     }
@@ -659,7 +659,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_line-pink .icheck_line-icon,
     .iradio_line-pink .icheck_line-icon {
-        background-image: url(line@2x.png);
+        background-image: url(line2x.png);
         -webkit-background-size: 60px 13px;
         background-size: 60px 13px;
     }
@@ -733,7 +733,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_line-purple .icheck_line-icon,
     .iradio_line-purple .icheck_line-icon {
-        background-image: url(line@2x.png);
+        background-image: url(line2x.png);
         -webkit-background-size: 60px 13px;
         background-size: 60px 13px;
     }

@@ -55,7 +55,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_minimal,
     .iradio_minimal {
-        background-image: url(minimal@2x.png);
+        background-image: url(minimal2x.png);
         -webkit-background-size: 200px 20px;
         background-size: 200px 20px;
     }

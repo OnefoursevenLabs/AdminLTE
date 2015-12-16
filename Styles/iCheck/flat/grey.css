@@ -49,7 +49,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_flat-grey,
     .iradio_flat-grey {
-        background-image: url(grey@2x.png);
+        background-image: url(grey2x.png);
         -webkit-background-size: 176px 22px;
         background-size: 176px 22px;
     }

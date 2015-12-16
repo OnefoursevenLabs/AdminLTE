@@ -49,7 +49,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_flat,
     .iradio_flat {
-        background-image: url(flat@2x.png);
+        background-image: url(flat2x.png);
         -webkit-background-size: 176px 22px;
         background-size: 176px 22px;
     }
@@ -105,7 +105,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_flat-red,
     .iradio_flat-red {
-        background-image: url(red@2x.png);
+        background-image: url(red2x.png);
         -webkit-background-size: 176px 22px;
         background-size: 176px 22px;
     }
@@ -161,7 +161,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_flat-green,
     .iradio_flat-green {
-        background-image: url(green@2x.png);
+        background-image: url(green2x.png);
         -webkit-background-size: 176px 22px;
         background-size: 176px 22px;
     }
@@ -217,7 +217,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_flat-blue,
     .iradio_flat-blue {
-        background-image: url(blue@2x.png);
+        background-image: url(blue2x.png);
         -webkit-background-size: 176px 22px;
         background-size: 176px 22px;
     }
@@ -273,7 +273,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_flat-aero,
     .iradio_flat-aero {
-        background-image: url(aero@2x.png);
+        background-image: url(aero2x.png);
         -webkit-background-size: 176px 22px;
         background-size: 176px 22px;
     }
@@ -329,7 +329,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_flat-grey,
     .iradio_flat-grey {
-        background-image: url(grey@2x.png);
+        background-image: url(grey2x.png);
         -webkit-background-size: 176px 22px;
         background-size: 176px 22px;
     }
@@ -385,7 +385,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_flat-orange,
     .iradio_flat-orange {
-        background-image: url(orange@2x.png);
+        background-image: url(orange2x.png);
         -webkit-background-size: 176px 22px;
         background-size: 176px 22px;
     }
@@ -441,7 +441,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_flat-yellow,
     .iradio_flat-yellow {
-        background-image: url(yellow@2x.png);
+        background-image: url(yellow2x.png);
         -webkit-background-size: 176px 22px;
         background-size: 176px 22px;
     }
@@ -497,7 +497,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_flat-pink,
     .iradio_flat-pink {
-        background-image: url(pink@2x.png);
+        background-image: url(pink2x.png);
         -webkit-background-size: 176px 22px;
         background-size: 176px 22px;
     }
@@ -553,7 +553,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_flat-purple,
     .iradio_flat-purple {
-        background-image: url(purple@2x.png);
+        background-image: url(purple2x.png);
         -webkit-background-size: 176px 22px;
         background-size: 176px 22px;
     }
