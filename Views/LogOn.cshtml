@@ -42,7 +42,7 @@
         </div>
 
         @if (userCanRegister) { @Html.ActionLink(T("Register").Text, "Register", new { ReturnUrl = Request.QueryString["ReturnUrl"] }) @T(" if you don't have an account.") }<br>
-        @if (userCanRegister) { @Html.ActionLink(T("Register").Text, "Register", new { ReturnUrl = Request.QueryString["ReturnUrl"] }) @T(" if you don't have an account.") }
+        @if (enableLostPassword) { <text> </text> @Html.ActionLink(T("Lost your Password?").Text, "RequestLostPassword") }
 
     </div><!-- /.login-box-body -->
 </div><!-- /.login-box -->
