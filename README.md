@@ -4,7 +4,7 @@
  This is an early stage of developement, but more is on it's way
  
 # TO-DOs
-* Breadcrumb
+* Breadcrumbs
 * TitlePart
 * Navigation
 * Pimp-out Account Pages (LogOn, Register, ResetPassword etc)
