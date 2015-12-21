@@ -9,3 +9,5 @@
 * Navigation
 * Pimp-out Account Pages (LogOn, Register, ResetPassword etc)
 
+# Package
+ Download the theme package from http://gallery.orchardproject.net/Packages/Orchard.Theme.Onefourseven.AdminLTE
