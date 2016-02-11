@@ -121,9 +121,9 @@
     <Content Include="Scripts\ui\jquery-ui.min.js" />
     <Content Include="Styles\AdminLTE.css" />
     <Content Include="Styles\AdminLTE.min.css" />
-    <Content Include="Styles\boostrap\css\bootstrap.css" />
-    <Content Include="Styles\boostrap\css\bootstrap.min.css" />
-    <Content Include="Styles\boostrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Styles\bootstrap\css\bootstrap.css" />
+    <Content Include="Styles\bootstrap\css\bootstrap.min.css" />
+    <Content Include="Styles\bootstrap\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Scripts\bootstrap\js\bootstrap.js" />
     <Content Include="Scripts\bootstrap\js\bootstrap.min.js" />
     <Content Include="Scripts\bootstrap\js\npm.js" />
@@ -924,11 +924,11 @@
     <Content Include="Views\Zone-Header.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Styles\boostrap\css\bootstrap.css.map" />
-    <Content Include="Styles\boostrap\fonts\glyphicons-halflings-regular.eot" />
-    <Content Include="Styles\boostrap\fonts\glyphicons-halflings-regular.ttf" />
-    <Content Include="Styles\boostrap\fonts\glyphicons-halflings-regular.woff" />
-    <Content Include="Styles\boostrap\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="Styles\bootstrap\css\bootstrap.css.map" />
+    <Content Include="Styles\bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Styles\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Styles\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Styles\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="dist\Web.config" />
