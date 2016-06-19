@@ -60,3 +60,4 @@ bin/Orchard.Users.dll
 bin/Orchard.Users.pdb
 bin/Orchard.Workflows.dll
 bin/Orchard.Workflows.pdb
+bin/*
