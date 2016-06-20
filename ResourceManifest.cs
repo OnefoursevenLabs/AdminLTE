@@ -6,12 +6,6 @@ namespace Onefourseven.AdminLTE {
             var manifest = builder.Add();
 
             // These definitions will be replaced by future `Orchard.Resources` module
-            //jQuery
-            manifest.DefineScript("jQuery").SetUrl("jQuery-2.1.4.min.js", "jQuery-2.1.4.js").SetVersion("2.1.4").SetCdn("//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.4.min.js", "//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.4.js", true);
-
-            //jQueryUI
-            manifest.DefineScript("jQueryUI").SetUrl("ui/jquery-ui.min.js", "ui/jquery-ui.js").SetVersion("1.11.4").SetDependencies("jQuery").SetCdn("//ajax.aspnetcdn.com/ajax/jquery.ui/1.11.4/jquery-ui.min.js", "//ajax.aspnetcdn.com/ajax/jquery.ui/1.11.4/jquery-ui.js", true);
-
             //jQueryUI Input Mask
             manifest.DefineScript("jQueryUI_InputMask").SetUrl("input-mask/jquery.inputmask.js").SetVersion("0.0.0").SetDependencies("jQueryUI");
             manifest.DefineScript("jQueryUI_InputMask_Extentions").SetUrl("input-mask/jquery.inputmask.extenstions.js").SetVersion("0.0.0").SetDependencies("jQueryUI_InputMask");
@@ -19,11 +13,7 @@ namespace Onefourseven.AdminLTE {
             manifest.DefineScript("jQueryUI_InputMask_Numeric_Extentions").SetUrl("input-mask/jquery.inputmask.numeric.extenstions.js").SetVersion("0.0.0").SetDependencies("jQueryUI_InputMask");
             manifest.DefineScript("jQueryUI_InputMask_Phone_Extentions").SetUrl("input-mask/jquery.inputmask.phone.extenstions.js").SetVersion("0.0.0").SetDependencies("jQueryUI_InputMask");
             manifest.DefineScript("jQueryUI_InputMask_Regex_Extentions").SetUrl("input-mask/jquery.inputmask.regex.extenstions.js").SetVersion("0.0.0").SetDependencies("jQueryUI_InputMask");
-
-            // bootstrap
-            manifest.DefineScript("Bootstrap").SetUrl("bootstrap/js/bootstrap.min.js", "bootstrap/js/bootstrap.js").SetVersion("3.3.4").SetDependencies("jQuery").SetCdn("//ajax.aspnetcdn.com/ajax/bootstrap/3.3.4/bootstrap.min.js", "//ajax.aspnetcdn.com/ajax/bootstrap/3.3.4/bootstrap.js", true);
-            manifest.DefineStyle("Bootstrap").SetUrl("bootstrap/css/bootstrap.min.css", "bootstrap/css/bootstrap.css").SetVersion("3.3.5").SetCdn("//ajax.aspnetcdn.com/ajax/bootstrap/3.3.5/css/bootstrap.min.css", "//ajax.aspnetcdn.com/ajax/bootstrap/3.3.5/css/bootstrap.css", true);
-
+            
             // AdminLTE specific resources  
             manifest.DefineScript("AdminApp").SetUrl("app.min.js", "app.js").SetVersion("2.3.0").SetDependencies("jQuery");
             manifest.DefineStyle("AdminLTE").SetUrl("AdminLTE.min.css", "AdminLTE.css").SetVersion("2.3.0");

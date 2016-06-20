@@ -117,16 +117,8 @@
     <Content Include="Scripts\input-mask\phone-codes\readme.txt" />
     <Content Include="Scripts\pages\dashboard.js" />
     <Content Include="Scripts\pages\dashboard2.js" />
-    <Content Include="Scripts\ui\jquery-ui.js" />
-    <Content Include="Scripts\ui\jquery-ui.min.js" />
     <Content Include="Styles\AdminLTE.css" />
     <Content Include="Styles\AdminLTE.min.css" />
-    <Content Include="Styles\bootstrap\css\bootstrap.css" />
-    <Content Include="Styles\bootstrap\css\bootstrap.min.css" />
-    <Content Include="Styles\bootstrap\fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="Scripts\bootstrap\js\bootstrap.js" />
-    <Content Include="Scripts\bootstrap\js\bootstrap.min.js" />
-    <Content Include="Scripts\bootstrap\js\npm.js" />
     <Content Include="dist\img\avatar.png" />
     <Content Include="dist\img\avatar04.png" />
     <Content Include="dist\img\avatar2.png" />
@@ -685,7 +677,6 @@
     <Content Include="plugins\ionslider\ion.rangeSlider.min.js" />
     <Content Include="plugins\ionslider\ion.rangeSlider.skinFlat.css" />
     <Content Include="plugins\ionslider\ion.rangeSlider.skinNice.css" />
-    <Content Include="Scripts\jQuery-2.1.4.min.js" />
     <Content Include="plugins\jvectormap\jquery-jvectormap-1.2.2.css" />
     <Content Include="plugins\jvectormap\jquery-jvectormap-1.2.2.min.js" />
     <Content Include="plugins\jvectormap\jquery-jvectormap-world-mill-en.js" />
@@ -924,13 +915,6 @@
     <Content Include="Views\Zone-Header.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Styles\bootstrap\css\bootstrap.css.map" />
-    <Content Include="Styles\bootstrap\fonts\glyphicons-halflings-regular.eot" />
-    <Content Include="Styles\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
-    <Content Include="Styles\bootstrap\fonts\glyphicons-halflings-regular.woff" />
-    <Content Include="Styles\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="dist\Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -974,9 +958,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Styles\Web.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Scripts\jQuery-2.1.4.js" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Scripts\input-mask\phone-codes\phone-be.json" />
